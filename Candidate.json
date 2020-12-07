@@ -1,7 +1,7 @@
 {
     "Candidates": [
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/adernia.png",
             "Name": "Adernia",
             "Race": "Nord",
             "Affliction": "None",
@@ -12,7 +12,7 @@
             "Link": "https://www.nexusmods.com"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/aela.jpg",
             "Name": "Aela",
             "Race": "Nord",
             "Affliction": "Werewolf",
@@ -23,7 +23,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Aela_the_Huntress"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/iona.jpg",
             "Name": "Iona",
             "Race": "Nord",
             "Affliction": "None",
@@ -34,7 +34,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Iona"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/jenassa.jpg",
             "Name": "Jenassa",
             "Race": "Dark Elf",
             "Affliction": "None",
@@ -45,7 +45,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Jenassa"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/jordis.jpg",
             "Name": "Jordis The Sword-Maiden",
             "Race": "Nord",
             "Affliction": "None",
@@ -56,7 +56,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Jordis_the_Sword-Maiden"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/lydia.jpg",
             "Name": "Lydia",
             "Race": "Nord",
             "Affliction": "None",
@@ -67,7 +67,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Lydia"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/serana.jpg",
             "Name": "Serana",
             "Race": "Nord",
             "Affliction": "Vampire",
@@ -78,7 +78,7 @@
             "Link": "https://en.uesp.net/wiki/Skyrim:Serana"
         },
         {
-            "Image": "",
+            "Image": "https://raw.githubusercontent.com/mtho18/GmuIt315/main/uthgerd.jpg",
             "Name": "Uthgerd The Unbroken",
             "Race": "Nord",
             "Affliction": "None",
