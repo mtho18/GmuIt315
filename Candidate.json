@@ -1,7 +1,7 @@
 {
     "Candidates": [
         {
-            "Image": "Difficult",
+            "Image": "",
             "Name": "Adernia",
             "Race": "Nord",
             "Affliction": "None",
@@ -12,81 +12,81 @@
             "Link": "https://www.nexusmods.com"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Aela",
             "Race": "Nord",
-            "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Affliction": "Werewolf",
+            "Class": "Thief",
+            "Location": "Jorrvaskr, Whiterun",
+            "Faction": "Companions",
+            "Desc": "Aela is a werewolf who is a part of the inner cicle within the Companions. She is a huntress who does not like cowards or milk drinkers. Aela love the heat of battle and does not care for boasting.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Aela_the_Huntress"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Iona",
             "Race": "Nord",
             "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Class": "Warrior",
+            "Location": "Honeyside, Riften",
+            "Faction": "Housecarl",
+            "Desc": "Iona becomes your housecarl after becoming the thane of Riften. She is loyal and often offers praise and compliment.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Iona"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
-            "Race": "Nord",
+            "Image": "",
+            "Name": "Jenassa",
+            "Race": "Dark Elf",
             "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Class": "Ranger",
+            "Location": "Drunken Huntsman, Whiterun",
+            "Faction": "Mercenary",
+            "Desc": "Jenassa is a mercenary for hire. She has a dislike for caves and prefers being above ground. Jenassa has a strong moral and acts rather respectful but somewhat ungrateful at times.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Jenassa"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Jordis The Sword-Maiden",
             "Race": "Nord",
             "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Class": "Warrior",
+            "Location": "Proudspire Manor, Solitude",
+            "Faction": "Housecarl",
+            "Desc": "Jordis becomes your housecarl after becoming the thane of Solitude. She is loyal and often offers praise and compliment.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Jordis_the_Sword-Maiden"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Lydia",
             "Race": "Nord",
             "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Class": "Warrior",
+            "Location": "Breezehome, Whiterun",
+            "Faction": "Housecarl",
+            "Desc": "Lydia becomes your housecarl after becoming the thane of Whiterun. She is loyal and often offers praise and compliment.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Lydia"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Serana",
             "Race": "Nord",
-            "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
-            "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Affliction": "Vampire",
+            "Class": "Battlemage",
+            "Location": "Dimhollow Cavern",
+            "Faction": "Volkihar Vampires",
+            "Desc": "Serana is a friendly person who have had a great deal of loneliness due to her troubled childhood. She often shares about her past and shares intimate details about her life.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Serana"
         },
         {
-            "Image": "Difficult",
-            "Name": "Adernia",
+            "Image": "",
+            "Name": "Uthgerd The Unbroken",
             "Race": "Nord",
             "Affliction": "None",
-            "Class": "Assassin",
-            "Location": "Sleeping Giant Inn, Riverwood",
+            "Class": "Warrior",
+            "Location": "The Bannered Mare, Whiterun",
             "Faction": "Adventurer",
-            "Desc": "Standalone modded follower. Looks like Jin Soul from Loona.",
-            "Link": "https://www.nexusmods.com"
+            "Desc": "Uthgerd is loyal and a straight to the point kind of person. She has a strong moral and will not commit crimes. Uthgerd has a fighter's disposition and is rather headstrong.",
+            "Link": "https://en.uesp.net/wiki/Skyrim:Jenassa"
         }
     ],
     "Status": "OK"
